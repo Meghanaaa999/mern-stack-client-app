@@ -232,14 +232,6 @@ Local: http://localhost:5173
 
 ---
 
-# 🌍 Live Deployment
-
-Frontend  
-https://mern-stack-client-app.vercel.app
-
-Backend  
-https://mern-stack-server-app-nischalaremanda.onrender.com
-
 
 # ⭐ Project Goal
 
