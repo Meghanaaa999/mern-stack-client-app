@@ -231,7 +231,8 @@ Local: http://localhost:5173
 ```
 
 ---
-
+# Live Deployment 
+https://mernstackclient-cy6wbh9s7-meghana99.vercel.app/
 
 # ⭐ Project Goal
 
